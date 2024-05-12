@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZC_TEST_TABLE_CRT'
+define service ZUI_TEST_TABLE_CRT_O4 {
+  expose ZC_TEST_TABLE_CRT;
+}
