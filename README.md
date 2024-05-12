@@ -1,3 +1,3 @@
 # bgPF_CRT
 
-EExplications ici : https://abapeur.fr/?p=121
+Explications ici : https://abapeur.fr/?p=121
